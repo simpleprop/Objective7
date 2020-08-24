@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin:0;
+  padding:0;
+}
+.class1{
+  display:flex;
+  justify-content: center;
+}
+a{
+  text-decoration: none;
+  color: #14b36e;
+}
+.class2{
+  align-self: flex-end;
+  margin-top: 500px;
+  padding: 10px;
+}
+.class3{
+  padding: 10px;
+  background-color: black;
+  color: white;
+  width: 50%;
+  border: 10px solid grey;
+  margin:auto;
+}
